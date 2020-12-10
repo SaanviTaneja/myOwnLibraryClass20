@@ -1,0 +1,1 @@
+# myOwnLibraryClass20
